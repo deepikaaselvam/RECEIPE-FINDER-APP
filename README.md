@@ -17,7 +17,7 @@
 
 | Home Page 🏠 | Search Results 🔍 | Recipe Details 🍴 |
 | ------------ | ----------------- | ----------------- |
-| ![Home Page](<img src="assets/screenshots/home-page.png" alt="Home Page Screenshot" width="600">
+| ![Home Page](<img src="https://github.com/deepikaaselvam/RECEIPE-FINDER-APP/blob/main/Homepage.png" alt="Home Page Screenshot" width="600">
 ) | ![Search Results](https://via.placeholder.com/300x200) | ![Recipe Details](https://via.placeholder.com/300x200) |
 
 ---
