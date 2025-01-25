@@ -17,7 +17,8 @@
 
 | Home Page 🏠 | Search Results 🔍 | Recipe Details 🍴 |
 | ------------ | ----------------- | ----------------- |
-| ![Home Page](https://via.placeholder.com/300x200) | ![Search Results](https://via.placeholder.com/300x200) | ![Recipe Details](https://via.placeholder.com/300x200) |
+| ![Home Page](<img src="assets/screenshots/home-page.png" alt="Home Page Screenshot" width="600">
+) | ![Search Results](https://via.placeholder.com/300x200) | ![Recipe Details](https://via.placeholder.com/300x200) |
 
 ---
 
