@@ -18,7 +18,7 @@
 | Home Page 🏠 | Search Results 🔍 | Recipe Details 🍴 |
 | ------------ | ----------------- | ----------------- |
 | ![Home Page](<img src="https://github.com/deepikaaselvam/RECEIPE-FINDER-APP/blob/main/Homepage.png" alt="Home Page Screenshot" width="600">
-) | ![Search Results](https://via.placeholder.com/300x200) | ![Recipe Details](https://via.placeholder.com/300x200) |
+) | ![Search Results](<img src="https://github.com/deepikaaselvam/RECEIPE-FINDER-APP/blob/main/Searchpage.png" alt="Search Page Screenshot"width="600">) | ![Recipe Details](<img src="https://github.com/deepikaaselvam/RECEIPE-FINDER-APP/blob/main/Searchpage.png" alt="Search Page Screenshot"width="600">) |
 
 ---
 
