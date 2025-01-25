@@ -68,3 +68,46 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+# 🍽️ Recipe Finder App
+
+> A web application that helps users search for recipes based on ingredients using the Edamam API. The app provides an interactive and user-friendly experience to explore new dishes and get detailed recipe instructions. 
+
+---
+
+## 🚀 Features
+
+- 🔍 **Search Recipes:** Find recipes by entering ingredients or keywords.
+- 🍴 **Detailed Recipe View:** View ingredients, instructions, and nutritional details for each recipe.
+- 📱 **Responsive Design:** Works seamlessly on desktop, tablet, and mobile devices.
+- 🌟 **Favorites Feature:** Save your favorite recipes for easy access (optional feature).
+
+---
+
+## 📸 Screenshots
+
+| Home Page 🏠 | Search Results 🔍 | Recipe Details 🍴 |
+| ------------ | ----------------- | ----------------- |
+| ![Home Page](https://via.placeholder.com/300x200) | ![Search Results](https://via.placeholder.com/300x200) | ![Recipe Details](https://via.placeholder.com/300x200) |
+
+---
+
+## 🛠️ Technologies Used
+
+- **Frontend:**
+  - ⚛️ React.js
+  - 🎨 CSS for styling
+
+- **Backend:**
+  - 🌐 Edamam API integration
+
+- **Development Tools:**
+  - 🖥️ Visual Studio Code
+  - 🗂️ Git and GitHub for version control
+
+---
+
+## 🧑‍🍳 How to Use
+
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/deepikaaselvam/receipe-finder-app.git
